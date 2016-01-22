@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RunningMan</string>
+    <string name="action_settings">settings</string>
+	<string name="map">地图</string>
+	<string name="zeroPzero">0.00</string>
+	<string name="running">跑步记录中</string>
+	<string name="stop_running">停止跑步</string>
+	<string name="back">返回</string>
+	<string name="distance">距离(m)</string>
+	<string name="setp_count">步数</string>
+	<string name="velocity">速度(v:m/s)</string>
+	<string name="calorie">卡路里(cal)</string>
+	<string name="time">时间(s)</string>
+	<string name="sport_record">运动记录</string>
+	<string name="myself">我的状态</string>
+	
+	
+</resources>
